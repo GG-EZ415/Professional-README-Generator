@@ -1,3 +1,3 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+created a README generator to help speed up repository creation. This is still an ongoing project but the bulk of the work has been done.
